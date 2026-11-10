@@ -1,1 +1,1 @@
-# 15618-project
+[Project proposal](project-proposal.pdf)
